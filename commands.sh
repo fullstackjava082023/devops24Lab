@@ -7,6 +7,11 @@ git status
 # This command is used to add files to the staging area.
 git add 
 
-# to add files to git repository.
+# To add files to git repository.
 git add commands.sh
 
+#To commit the changes to the repository.
+git commit -m "First Commit"
+
+# To check the log of the commits.
+git diff
